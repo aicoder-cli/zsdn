@@ -93,6 +93,14 @@
 - `assets/置身钉内 14.34.50.pdf`：原 PDF 对照文件。
 - `置身钉内 14.34.50.pdf`：原始 PDF 文件。
 
+## 在线阅读
+
+已部署到 Cloudflare Pages：
+
+```text
+https://zsdn.pages.dev/
+```
+
 ## 本地阅读
 
 在仓库目录中启动一个静态服务器：
