@@ -95,7 +95,7 @@
 
 ## 在线阅读
 
-已部署到 Cloudflare Pages：
+访问以下链接在线阅读：
 
 ```text
 https://zsdn.pages.dev/
